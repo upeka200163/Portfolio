@@ -1,0 +1,78 @@
+UPEKA MAHANAMA
++94 71 586 8937 |  upekamahanama@gmail.com  |  Tangalle, Sri Lanka   
+                                                                  upeka-mahanama   |   upeka200163                                                   
+PERSONAL STATEMENT
+Motivated Software Engineering undergraduate with strong problem-solving skills and the ability to perform well under pressure. Passionate about developing user-friendly and efficient digital solutions while continuously improving technical and professional skills. A quick learner passionate about exploring new technologies, collaborating effectively with teams, and delivering reliable and maintainable software solutions.
+EDUCATION
+• University of Plymouth, UK	 Mar 2024 – Dec 2027
+    BSc (Hons) in Software Engineering — Undergraduate
+   ? Currently pursuing degree, in progress.
+• Completed with Advanced Certificate Programmer                                             2024-2025
+   NSBM Green University, Sri Lanka
+• Information and Communication Technology Technician                                   2023
+   (NVQ LEVEL 4)
+   National Youth Service Council 
+• Advancing Career Skills English Course                                                               2023
+   (NVQ LEVEL 3) 
+   National Youth Service Council                                                                             
+WORK EXPERIENCE
+IT Trainee at Ceylon Electricity Board []	                                     July 2023 – January 2024
+Successfully completed a 6-month IT training program at the Ceylon Electricity Board, focusing on providing technical support and managing enterprise IT systems.
+TECHNICAL SKILLS
+? Programming Languages: JavaScript, Python (Basic), Java, C, C#, PHP 
+? Web Technologies: HTML, CSS, Bootstrap, Flutter
+? Frameworks and Libraries: React.js
+? Database Systems: Microsoft SQL Server, MySQL, MongoDB, Firebase 
+? Tools & Design: UI/UX Design, Figma 
+? Version Control: Git, GitHub 
+PROJECTS
+Utility Management System (Centralized Billing Platform): Group Project                              Sep 2025- January 2026    
+Tech Stack: PHP | SQL Server | CSS | XAMPP | GitHub                                                                                                           []
+? Developed a role-based web application for electricity and water billing management, supporting Admin, Manager, Cashier, and Customer dashboards.
+? Implemented modules for customer management, meter readings, billing, payments, and complaints to ensure accurate and transparent operations.
+? Integrated secure authentication and database connectivity using PHP and SQL Server, and deployed 
+via XAMPP for reliable and stable system performance.
+Banking Application System: Group Project                                                                    Oct 2025- January 2026   Tech Stack: Java | Spring Boot | MySQL | HTML | CSS | JS | React.js | MongoDB                                                        []                                                
+? Developed a secure banking system handling account management, transactions, and fund transfers 
+with proper validation.
+
+? Implemented role-based access and database integration to ensure secure, consistent, and efficient 
+financial operations.
+Personalized Health Tracking System (Desktop Application): Personal Project 	                              February2026
+Tech Stack: Python | Tkinter (GUI) | SQLite3 | Pillow (PIL) | OOP                                                                                 []	
+? Developed a secure, SQLite3-integrated health tracker featuring user authentication and a real-time BMI analytics engine for medical-standard health categorization.
+? Engineered a modern, dark-themed GUI with automated data persistence to track and visualize historical user progress via a structured interface.
+Academia – Modern Online Education & Learning Platform: Personal Project                                          May2026                                             
+Tech Stack: React.js | CSS3 | HTML5 | Figma | Google Fonts                                                                                     []                                                                              
+? Designed and developed a responsive educational web platform that showcases courses, student testimonials, and institutional information through a clean and intuitive interface. 
+? Implemented modern frontend development practices, including responsive layouts, reusable components, and interactive UI elements to enhance accessibility and user experience. 
+Hospital Management System: Personal Project                                                                                                           Nov2025	
+Tech Stack: HTML5 | CSS3 | JavaScript | Figma                                                                                                           []
+? Developed a fully responsive and interactive landing page for a healthcare facility.
+? Highlighted hospital services, medical staff profiles, and patient testimonials, with an integrated appointment booking system to enhance patient engagement.
+CLUBS & SOCIETIES
+Council Member — FOSS Community                                                                                     2026(current)	    
+NSBM Green University
+Committee Member — Mathematics and Statistics Circle                                                     2025 -2026	   
+NSBM Green University
+Volunteer — Arduino Day, Open Squid... Supported the FOSS Community Event             2025                                    NSBM Green University
+CERTIFICATIONS
+? Python Programming:  University of Moratuwa                                                           2024
+? Web Development: University of Moratuwa                                                                2024                                                                                                                                                                                
+? Figma Course: DP Education IT Campus                                                                   March 2026
+? React Basics: Hacker Rank                                                                                        March 2026
+? C# Bootcamp: Udemy                                                                                                June 2026                                                                                                         
+? Introduction to Artificial Intelligence: Simplilearn                                                        July 2025
+OTHER INFORMATION
+? Languages: English , Sinhala (Native)
+? Soft Skills: Logical Thinking, Problem Solving, Leadership, Critical Thinking, Time Management, Effective Communication, Project Management, Teamwork & Collaboration, Adaptability & Quick Learning
+REFERENCES
+Dr. Rasika Ranaweera                                                         Mrs.Pavithra Subashini
+Dean                                                                                      Head- Industry Collaboration Unit
+Senior Lecturer                                                                      Senior Lecturer
+Faculty of Computing                                                             Department of Software Engineering and 
+NSBM Green University                                                         Computer Security                                                                                                                         
+Email: ranaweera.r@nsbm.ac.lk                                            Faculty of Computing                                                                               
+Telephone: +94 (76) 668 4965                                               NSBM Green University                                                                  
+                                                                                               Email: pavithras@nsbm.ac.lk
+                                                                                               Telephone: +94 (77) 618 1390  

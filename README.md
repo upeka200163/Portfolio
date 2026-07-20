@@ -26,7 +26,6 @@ I enjoy transforming ideas into responsive, user-friendly, and visually engaging
 
 # 🛠️ Tech Stack
 
-### Frontend
 - React.js
 - Vite
 - HTML5
@@ -34,25 +33,6 @@ I enjoy transforming ideas into responsive, user-friendly, and visually engaging
 - Tailwind CSS
 - JavaScript (ES6+)
 
-### Backend
-- PHP
-- Python (Flask)
-- Node.js
-- Spring Boot
-
-### Database
-- MySQL
-- Firebase
-- SQLite
-
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- VS Code
-- Figma
-- Netlify
-- GitHub Pages
 
 ---
 
